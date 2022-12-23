@@ -1,0 +1,7 @@
+D:\Hemal\LocalRepos\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+D:\Hemal\LocalRepos\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+D:\Hemal\LocalRepos\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+D:\Hemal\LocalRepos\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojResolveAssemblyReference.cache
+D:\Hemal\LocalRepos\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.csproj.CoreCompileInputs.cache
+D:\Hemal\LocalRepos\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+D:\Hemal\LocalRepos\HelloWorldConsole\HelloWorldConsole\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
